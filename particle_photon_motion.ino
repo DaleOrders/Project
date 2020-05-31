@@ -4,8 +4,6 @@ int led1 = D4;
 void setup ()
 {
     pinMode(led1,OUTPUT);
-    pinMode(buzz,OUTPUT);
-
     
     Particle.subscribe("motiondetected", handler);
     delay(3000);
