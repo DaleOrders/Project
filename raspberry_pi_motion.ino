@@ -1,9 +1,7 @@
 
-int sensor = 26;
-
+int sensor = 17;
 
 void setup() {
-    
     
 }
 
