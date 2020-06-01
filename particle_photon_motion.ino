@@ -6,7 +6,6 @@ void setup ()
     pinMode(led1,OUTPUT);
     //wait for 10 minutes before 
     Particle.subscribe("motiondetected", handler);
-    delay(600000);
 }
 
 void handler(const char *event, const char *data) {
@@ -18,6 +17,8 @@ void handler(const char *event, const char *data) {
      else{
             digitalWrite(led1,LOW);
      }
+        
+        delay(600000);
             
     }
 
