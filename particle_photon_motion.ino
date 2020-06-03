@@ -1,10 +1,10 @@
-//Second Photon, LED
+
 int led1 = D4;
 
 void setup ()
 {
     pinMode(led1,OUTPUT);
-    //wait for 10 minutes before 
+    
     Particle.subscribe("motiondetected", handler);
 }
 
@@ -17,7 +17,7 @@ void handler(const char *event, const char *data) {
      else{
             digitalWrite(led1,LOW);
      }
-        
+        //led is on for 10 minutes
         delay(600000);
             
     }
