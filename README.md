@@ -57,13 +57,13 @@ Temperature and Humidity Sensor
 2.	Attach the GND pin to the GND pin of the on the breadboard using male to male wire
 3.	Attach the positive pin on the dht11 to 5V on the Arduino.
 4.	On the I2C screen attach, SCL to A5, SDA to A4, GND to GND and VCC to 5V.
-5.	Temperature and Humidity will appear after you compile and upload code to Arduino IDE.
+5.	Temperature and Humidity will appear on the I2C screen after you compile and upload code to Arduino IDE.
 
 Turn Kettle on remotely
 
-1.	Attach the yellow cord to D9 on the Arduino
-2.	 Attach the red cord to 5V using a male to male wire
-3.	Attach the black cord to GND using a male to male wire
+1.	Attach the yellow cord of the motor servo to D9 on the Arduino
+2.	Attach the red cord of the motor servo to 5V pin of the Arduino using a male to male wire
+3.	Attach the black cord of the motor servo to the GND pin of the Arduino using a male to male wire
 4.	Adhere the servo to kettle using tape to keep it in the right position.
 5.	Kettle will turn on after you compile and upload code to Arduino IDE.
 
