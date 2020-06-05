@@ -6,11 +6,17 @@ My project is a multifunctional unit that is designed to offer convenience and e
 
 Setup:
 Download and setup Raspbian OS using the following instructions https://www.raspberrypi.org/downloads/raspberry-pi-os/
+
 Download and setup Particle Photon using the following instructions https://docs.particle.io/quickstart/photon/
+
 Claim Photon https://docs.particle.io/workshops/photon-maker-kit-workshop/ch1/
+
 Register Rasberry Pi on Particle Cloud using the following instructions https://iotdesignpro.com/projects/how-to-connect-raspberry-pi-with-particle-cloud-for-iot-applications
+
 Register an IFTTT account https://ifttt.com/join
+
 Join https://dweet.io/ or https://thingspeak.com/users/sign_up
+
 
 User Manual: 
 
