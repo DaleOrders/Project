@@ -5,6 +5,7 @@ Overview
 My project is a multifunctional unit that is designed to offer convenience and efficiently to occupants in the home. It is designed to provide a remote access unit, which can be used to provide a more efficient solution to home automation. Currently the market offers Amazon Alexa and Google home which provide remote access to devices within the home, such a turning your favourite song on through a verbal command. The problem with this system is that they are only configured to work with smart devices that have been specifically designed, and are oftentimes, quite expensive to purchase. This presents a challenge for people like myself who have many devices that are not are not smart and therefore cannot be interfaced with such hardware. For example, my kettle requires that a lever be physically pushed down to turn on. Even with a smart plug, I would not be able to turn the kettle on automatically.
 
 Setup:
+
 Download and setup Raspbian OS using the following instructions https://www.raspberrypi.org/downloads/raspberry-pi-os/
 
 Download and setup Particle Photon using the following instructions https://docs.particle.io/quickstart/photon/
